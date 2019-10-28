@@ -1,0 +1,27 @@
+JAVA
+
+https://www.softwaretestinghelp.com/core-java-interview-questions/
+
+Ce site parle du Top 50+ des Questions et réponses les plus posées aucours d'entretiens d'embauche en Java,
+aussi bien pour les jeunes developpeurs que pour les developpeurs expérimenté. Il explique Tous les concepts
+importants en JAVA, avec des exemples pour faciliter la compréhension.
+
+
+
+CSS
+
+https://uglyduck.ca/responsive-tables/
+
+Cet article parle de la tendance qu'ont les developpeurs à vouloir personnaliser la dispositions des tables responsives
+et la réaction instinctive qui pourrait consister à mettre en œuvre une sorte de système de grille personnalisé ou à
+intégrer une bibliothèque pré-construite. L'auteur préconise de ne pas proceder ainsi, mais plutôt, d'utilisez simplement
+des tableaux et quelques CSS simples et explique pourquoi.
+
+
+HTTP
+
+https://blog.whatwg.org/focusing-on-focus
+
+Ce article est tiré d'un blog et traite d'une liste de points à corriger pour disposer de bonnes bases pour des ajouts
+supplémentaires à des éléments liés à la mise au point (ou focus) en langage html. Il s'adresse notament au ingénieurs
+de navigateurs et designeurs web
